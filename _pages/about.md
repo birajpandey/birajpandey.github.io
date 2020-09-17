@@ -14,7 +14,7 @@ I did my undergrad at UT Austin with Ila Fiete. Now, I am in Bing Brunton's grou
 
 
 
-##Bio
+## Bio
 I grew up in Nepal! I came to America when I was a wee lad. 
 
 I did an REU at ICERM. I did a stint in Hong Kong with a startup. 
