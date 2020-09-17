@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm an applied mathematician interested broadly at the intersection of neuroscience and applied mathematics.
-
-I did my undergrad at UT Austin with Ila Fiete. Now, I am in Bing Brunton's group where I construct efficient deepl learning methods.
+I am a graduate student in the Applied Mathematics department broadly 
+interested at the intersection of theoretical neuroscience and machine 
+learning. Currently, I am using frameworks from statistical learning to 
+model and make inferences about randomly connected sparse neural systems 
+in insect model organisms. During my undergraduate years, I used manifold 
+learning methods and dynamical systems theory to visualize and verify the 
+theoretically predicted ring attractor present in the mammalian head 
+direction system. In my free time, I love making delectable dishes 
+in the kitchen, bumping hip-hop music, and hiking difficult trails.
 
 
 
