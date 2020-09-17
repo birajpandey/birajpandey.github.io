@@ -14,4 +14,4 @@ Areas of interest:
   - Statistical Learning theory
   - Deep learning theory
 
-  Here, is my [CV]((http://birajpandey.github.io/files/CV.pdf)
+  Here, is my [CV](http://birajpandey.github.io/files/CV.pdf)
