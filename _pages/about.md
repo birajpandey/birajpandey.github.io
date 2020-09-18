@@ -21,8 +21,8 @@ in the kitchen, bumping hip-hop music, and hiking difficult trails.
 
 
 ## Bio
-I grew up in Nepal! I came to America when I was a wee lad. 
+I grew up in Nepal! 
 
-I did an REU at ICERM. I did a stint in Hong Kong with a startup. 
+<!-- I did an REU at ICERM. I did a stint in Hong Kong with a startup. 
 
-In my free time, I enjoy listening to hiphop music and debating about it.
+In my free time, I enjoy listening to hiphop music and debating about it. -->
